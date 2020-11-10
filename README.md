@@ -17,7 +17,9 @@ Through these queries we can see:
 
 
 ![departments_list](Photos/departments_list.png)
-2. 
+2. We can see which departments & roles will need to plan to hire due to retirement vacancies the most.
+
+![retirement_by_roles](Photos/retirement_by_roles.png)
 
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
 
