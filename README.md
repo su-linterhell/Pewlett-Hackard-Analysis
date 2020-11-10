@@ -18,11 +18,10 @@ Through these queries we can see:
 
 ![departments_list](Photos/departments_list.png)
 
-2. We can see which departments & roles will need to plan to hire due to retirement vacancies the most.
+2. We can see which departments & roles will need to plan to hire due to retirement vacancies the most. Looking at this table, we can see that Senior Engineers and Senior Staff have the most roles that will need to be potentially filled due to retirement. On the other hand, Managers only have 2 roles that may need to be fufilled due to retirement. However, that is due to the fact that there are significantly less manager roles to begin with. This count is based on current employees who were born between 1952 and 1955. 
 
 ![retirement_by_roles](Photos/retirement_by_roles.png)
 
-Looking at this table, we can see that Senior Engineers and Senior Staff have the most roles that will need to be potentially filled due to retirement. On the other hand, Managers only have 2 roles that may need to be fufilled due to retirement. However, that is due to the fact that there are significantly less manager roles to begin with. This count is based on current employees who were born between 1952 and 1955. 
 
 3. We have generated a list of employees who qualify to participate in a mentorship program. These are employees that were born within the year of 1965. There are 1549 employees that qualify for a mentorship program. 
 
