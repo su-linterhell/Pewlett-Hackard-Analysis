@@ -17,15 +17,19 @@ Through these queries we can see:
 
 
 ![departments_list](Photos/departments_list.png)
+
 2. We can see which departments & roles will need to plan to hire due to retirement vacancies the most.
 
 ![retirement_by_roles](Photos/retirement_by_roles.png)
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+Looking at this table, we can see that Senior Engineers and Senior Staff have the most roles that will need to be potentially filled due to retirement. On the other hand, Managers only have 2 roles that may need to be fufilled due to retirement. However, that is due to the fact that there are significantly less manager roles to begin with. This count is based on current employees who were born between 1952 and 1955. 
+
+3. We have generated a list of employees who qualify to participate in a mentorship program. These are employees that were born within the year of 1965. There are 1549 employees that qualify for a mentorship program. 
+
+The key three take aways from this analysis can be found within the unique_titles, retiring_titles & mentorship_eligibility csv when addressing the two main questions in this project. Those questions being, which employees will need retirement packages, and what roles will need to be filled. The unique_titles csv contains a list of each employee who is eligible for retirement and may want packages. The retiring_titles, gives HR a general overview of which departments will be most impacted by retirement vacancies. Lastly, the mentorship_eligibility csv contains a list of employees that the company can benefit from by using them to mentor other, newer employees. 
 
 
 
 
 
 
-mentors : 1549
