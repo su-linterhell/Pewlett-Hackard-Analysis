@@ -14,6 +14,8 @@ Here are some of the key findings from this analysis. They can all be found with
 ## Summary
 Through these queries we can see:
 1.  Pewlett Packard has 5 department managers at this time. Given that there are 9 departments, there are open department roles that can be filled. 
+
+
 ![departments_list](Photos/departments_list.png)
 2. 
 
