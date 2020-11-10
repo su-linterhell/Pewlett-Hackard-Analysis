@@ -25,7 +25,7 @@ Through these queries we can see:
 
 3. We have generated a list of employees who qualify to participate in a mentorship program. These are employees that were born within the year of 1965. There are 1549 employees that qualify for a mentorship program. 
 
-### Main Points
+### Key Points:
 The key three take aways from this analysis can be found within the unique_titles, retiring_titles & mentorship_eligibility csv when addressing the two main questions in this project. Those questions being, which employees will need retirement packages, and what roles will need to be filled. The unique_titles csv contains a list of each employee who is eligible for retirement and may want packages. The retiring_titles, gives HR a general overview of which departments will be most impacted by retirement vacancies. Lastly, the mentorship_eligibility csv contains a list of employees that the company can benefit from by using them to mentor other, newer employees. 
 
 
