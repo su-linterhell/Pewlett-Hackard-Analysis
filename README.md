@@ -1,4 +1,5 @@
 # Pewlett-Hackard-Analysis
+Utilizing SQL to explore & examine employee data. 
 
 ## Overview of the Analysis:
 Working with Pewlett-Hackard-Analysis I have created a series of queries and tables to understand which employees will most likely be retiring in the near future, and will need retirement packages. This information will be extremely useful for budgeting purposes and for HR to be prepared to fill roles as people leave. 
